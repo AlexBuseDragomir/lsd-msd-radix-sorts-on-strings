@@ -9,4 +9,4 @@ The procedure involves grouping values based on a significant letter (which occu
 - **LSD** operates from the end to the beginning of the string ←
 - **MSD** operates from the beginning of the string to its end →
 
-![Image unavailable](photos/Logo project.png)
+![Image unavailable](./photos/Logo project.png)
