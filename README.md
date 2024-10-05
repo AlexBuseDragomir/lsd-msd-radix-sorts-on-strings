@@ -1,4 +1,4 @@
-# LSD/MSD Radis Sorts on String
+# LSD/MSD Radix Sorts on String
 
 Radix sort is a sorting algorithm that does not involve comparing values but rather operates by grouping elements based on keys.
 
