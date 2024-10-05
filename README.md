@@ -19,8 +19,6 @@ The procedure involves grouping values based on a significant letter (which occu
 
 ![Image unavailable](./photos/Pseudocode-Source-Wikipedia.png)
 
-![Image unavailable](./photos/Logo%20project.png)
-
 ![Image unavailable](./photos/Key%20indexed%20counting%20code.png)
 
 ![Image unavailable](./photos/LSD-MSD%20example%20(Taken%20and%20modified%20from%20Code%20Worm).png)
